@@ -1,2 +1,181 @@
-# list-free-resources
-A list of free resources
+# A long list of free resources
+
+## Apps, Services, etc.
+- What3Words for precise geolocationing - https://what3words.com/
+- Github Student Dev Starter Pack - https://education.github.com/pack
+- Virus total for scanning files before downloading - https://www.virustotal.com/
+- Free documentaries - Fhttps://documentaryheaven.com/
+- Paletton for color generation - http://paletton.com
+- Learn code the hard way - https://learncodethehardway.org/
+- Free techn tutorials - https://www.thinktutorial.com/
+- Free courses and certificates - https://www.webemployed.com/best-free-online-courses-certificates-in-2017/
+- Open courses from Yale - https://oyc.yale.edu/
+- Free guided meditations from UCLA MARC - https://www.uclahealth.org/marc/mindful-meditations
+- Send and recieve msgs in morsecode - http://morsecode.me/
+- Psychology textbooks from Noba - https://nobaproject.com/
+- Free stuff from locals, Freecycle - https://freecycle.org
+- ZLibrary for free ebooks (even one’s in copyright) - https://b-ok.cc/
+- Noun project for free icons - https://thenounproject.com/
+- Explore.org for live videos and cams - https://explore.org/livecams
+- Futureme, writer letters to future self - https://futureme.org/
+- Windy for weather - windy.com
+- 10minutemail for free temp anonymous email - https://10minutemail.com/10MinuteMail/index.html
+- Open University and OpenLearn for free higher-ed learning: https://open.edu/
+- Photomath for solution help - https://photomath.net/en/
+- Sci-hub for open source science articles - https://sci-hub.tw/
+- Online chess - https://lichess.org/
+- Camelcamelcamel for Amazon price history - https://camelcamelcamel.com/
+- Python for automation - https://automatetheboringstuff.com/
+- Opencourser for open courses - https://opencourser.com/
+- Internet Archive for almost everything under the sun - https://archive.org/
+- Libgen for free textbooks - https://libgen.is/
+- PatrickJMT and Prof Leonard for Math tuts and lectures on YouTube
+- Free File for taxes - https://www.irs.gov/filing/free-file-do-your-federal-taxes-for-free
+- 20,000 Berkeley Videos - https://lbry.com/news/20000-illegal-college-lectures-rescued
+- Privacy for site-specific credit cards - https://privacy.com/
+- Skiplagged for Cheap Flights - https://skiplagged.com/
+- Google Maps: Navigation app - https://www.google.com/maps
+- Blender: 3D modeling software - https://www.blender.org/
+- VLC: Video player - https://www.videolan.org/index.html
+- The Windows Snipping Tool: Screen capture tool - https://support.microsoft.com/en-us/help/4027213/windows-open-snipping-tool-and-take-a-screenshot
+- Space Engine: Space exploration simulator - http://spaceengine.org/
+- Wikipedia: Online encyclopedia - https://www.wikipedia.org/
+- MuseScore: Music notation software - https://musescore.org/en
+- Audacity: Audio editing software - https://www.audacityteam.org/
+- Handbrake: video converter - https://handbrake.fr/
+- Zotero: Reference manager - https://www.zotero.org/
+- Desmos.com: Online Calculator - https://www.desmos.com/
+- Calibre: ebook manager - https://calibre-ebook.com/download
+- Notepad++: Text Editor - https://notepad-plus-plus.org/
+- stud.io: Lego simulator - https://studio.bricklink.com/v2/build/studio.page
+- Search Everything: Instant file search software - https://www.voidtools.com/
+- LaTeX: Document software - https://www.latex-project.org/
+- http://archive.org/: Contains music, movies, books, software, games, and webpages - http://archive.org/
+- Linux/Apache/Postgres/Gcc: Various Linux based OS’s, webservers, compilers, etc. - https://www.linux.org/
+- Discord: Chat and Communication software - https://discordapp.com/
+- OBS Studio: Streaming and Recording software - https://obsproject.com/
+- Krita: Digital design - https://krita.org/en/
+- R: Statistics software - https://www.r-project.org/
+- pfSense: Firewall software - https://www.pfsense.org/
+- FreeNAS: File server software - http://www.freenas.org/
+- Gimp: Digital design - https://www.gimp.org/
+- OpenSCAD: 3D Model scripting software - http://www.openscad.org/
+- Malwarebytes: Malware protection - https://www.malwarebytes.com/
+- Unity: Game design software - https://unity3d.com/
+- https://www.draw.io/: Online diagram software - https://www.draw.io/
+- Paint.NET: Image design - https://www.getpaint.net/
+- Draftsight: Free CAD - https://www.3ds.com/products-services/draftsight-cad-software/free-download/
+- 7Zip: File archiving - http://www.7-zip.org/
+- Plex: Media storage access - https://www.plex.tv/
+- Libre Office: Document editing suite - https://www.libreoffice.org/
+- KeePass: Password manager - https://.info/
+- DaVinci Resolve: Video color correcting/editing - https://www.blackmagicdesign.com/products/davinciresolve/ I nkscape: Vector art software - https://inkscape.org/en/
+- Google's Apps: Google’s document suite (Docs, Sheets, Gmail, etc) - https://www.google.com/
+- Duolingo: Language learning - https://www.duolingo.com/
+- Darktable: Photo workflow a la lightroom - https://www.musicpd.org/ and https://www.darktable.org/
+- MPD/Mopidy: F/OSS music player daemon - https://www.mopidy.com/ fxSolver/Cymath/Mathway - Math/engineering/chemistry problem solving - https://www.fxsolver.com/ and https://www.cymath.com/ and https://www.mathway.com/Algebra
+- Recuva: Restores deleted files - https://www.ccleaner.com/recuva
+- Python: A programming language for quickly writing scripts - https://www.python.org/
+- foobar2000: Freeware audio player - https://www.foobar2000.org
+- F.lux: Day/Night cycle on monitor color/brightness - https://justgetflux.com/
+- Fusion 360: Free 3D CAD/CAM design software - https://www.autodesk.com/products/fusion-360/students-teachers-educators
+- Steam: Platform for game distribution - http://store.steampowered.com/
+- Shazam: App that tells you what song is playing - https://www.shazam.com/
+- Audio Router: Sound routing - https://github.com/audiorouterdev/audio-router
+- Arduino: Open-source electronics platform (software is free) - https://www.arduino.cc/
+- LMMS: Music studio - https://lmms.io/
+- Kodi: Entertainment center software - https://kodi.tv/
+- Git: Version control system - https://git-scm.com/
+- REAPER: Audio workstation - https://www.reaper.fm/
+- Greenshot: Print screen tool - http://getgreenshot.org/
+- Irfanview: Image viewer, editor, organiser and converter - http://www.irfanview.com/
+- TeamViewer: Remote desktop software - https://www.teamviewer.us/
+- Firefox: Web browser - https://www.mozilla.org/en-US/firefox/new/
+- Wireshark: Open source packet analyze - https://www.wireshark.org/
+- Disk Fan: Visually see how much space is being used on a volume - http://www.diskspacefan.com/
+- Beyond Compare: Compare two files/directories: whole tree's and directories - https://www.scootersoftware.com/
+- VNCServer/Viewer: Remote desktop software - https://www.realvnc.com/en/connect/download/vnc/
+- Ubuntu: A Linux OS - https://www.ubuntu.com/
+- WinDirStat: Graphical disk usage analyzer - https://windirstat.net/
+- Oracle VirtualBox: Open-source hypervisor - https://www.virtualbox.org/
+- PuTTy: An all in one protocol terminal - https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
+- Visual Studio Code: Code editor - https://code.visualstudio.com/
+
+## YouTube Educators
+- Mark Felton - historical documetaries and such
+- Michel van Biezen - physics, chemistry, math, engineering
+- Jeff Hanson - engineering
+- lasseviren1 - physics
+- Darryl Morrell - engineering
+- learnfluidmechanics - fluid mechanics, d'uh
+- Simmy Sigma - student who does maths, engineering, geomatics vids
+- Engineer Clearly - chemical engineering, maths
+- Learn MechE - faculty of chemical and biological engineering at UC Boulder
+- Learn ChemE - ditto
+- Joshua Meyer - heat transfer by a prof of mechanical and aeronautical engineering
+- Randall Manteufel - engineering, thermodynamics, fluid mechanics, heat transfer
+- Ron Hugo - mechanical engineering, thermodynamics, prof at University of Calgary
+- Vincent Racaniello - Virology
+- Practical Engineering - highly recommended; simple demonstrations of engineering concepts
+- singingbanana - Jim Grime from Numberphile's own channel
+- nottinghamscience - the location of Periodic Videos; they have their own
+- For the Allure of Physics and Lectures by Walter Lewin... - Walter Lewin's world famous physics lectures
+- blackpenredpen - maths videos by what seems to be a Chinese student; pretty good
+- 3blue1brown - well-done maths videos
+- Mathologer - Monash U maths professor in Australia
+- Doc Schuster - excellent physics videos by a high school teacher
+- Demystifying Medicine - decent quality medicine videos by students at McMaster University in Canada
+- Professor Dave Explains - okay videos on maths, biology, physics, from a high school level (which is why I say "okay". They are actually decent, but too simple)
+- James Cook - advanced calculus, abstract algebra, linear algebra, ODEs, number theory, lie theory, complex analysis, mechanics - all around advanced math lectures
+- PHRM203 - pharmacology videos. Some very short, some lecture-length
+- Peter Cavnar - cell bio and biochem
+- Kevin Ahern - biochemistry lectures
+- professorfink - hematology, anatomy, physiology, pharmacology
+- AK lecturers - biochem and physics
+- Fundamentals of Biochemistry - self-explanatory
+- DrPhysicsA - ditto
+- ChemistNate - ditto
+- Abraham Physics - ditto - hundreds of physics videos, pretty good stuff
+- Broad Institute - excellent speeches on genetics, biochemistry, stuff like that from Eric Lander's institute through MIT and Harvard
+- Mark Thorsby - logic and philosophy
+- patrickJMT - almost TWO THOUSAND videos on maths and physics
+- Future Doc House - microbiology
+- midnighttutor - decade old, but maths don't change
+- ukmathsteacher - self-explanatory
+- Brett Tallman - engineering
+- slcmath@pc - self-explanatory
+- Andrew Wolf - pathophysiology videos
+- Ken Stedman - virology
+- Bill Shillito - higher maths
+- Nikolay's Genetics Lessons - over a thousand videos addressing individual problems you'll encounter in textbooks. Years since I watched him, but I remember him being good 
+- njwildberger - advanced maths, including some of his own devising.
+- iBioEducation - been years, but I used to enjoy these videos. A specialist discusses their research in a few 20 minute videos. Check out their other iBio channels too.
+- Gregory B Sadler - over a thousand philosophy videos!
+- Craig Savage - undergraduate biology
+- Leah4Sci - ORGANIC CHEMISTRY
+- The Organic Chemistry Tutor - Physics, maths, chamistry - EXCELLENT!
+- Armando Hasudungan - I think he's a student; he is also an artist. He draws beautiful illustrations and infographics as he explains medical concepts. EXCELLENT
+- Handwritten Tutorials - pretty much the same, but not quite as good. Still good though, but it is hard to beat Armando
+- Bill Kinney - maths
+- GVSUmath - high school maths
+- Tyler DeWitt - student, I believe, who makes biology and chemistry videos
+- The Math Sorcerer - advanced maths.
+- structurefree - engineering
+- freesciencelessons - elementary sciences
+- Drbeen medical videos - self-explanatory
+- MOOF university - huge number of biochemistry and chemistry videos
+- john kinny-lewis - high school maths
+- Professor Leonard - pretty good undergraduate maths videos
+- Anil Kumar - discrete maths, algebra, etc.
+- Harold Walden - elementary maths
+- Steve Brunton - engineering and maths
+- Thomas Kim - DIY and physics demonstrations
+- Justin 'Sci Higg' Higgons - high school (?) sciences teacher
+- PhysicsEH - self-explanatory
+- Eddie Woo - maths
+- ProfRobBob - high school maths
+- Greg Johnson - physics
+- MrDBioCFC - biology
+- MathDoctorBob - advanced maths
+- Scott Ramsay, RE-Lecture, katkimshow, Rick Hill, John Rossiter, Brian Douglas, Gordon Parker, Benjamin Drew - engineering
+- Bruce Yeany - practical science
