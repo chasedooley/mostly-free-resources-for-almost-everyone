@@ -122,7 +122,7 @@
 
 | Website                                                      | Description                                                  |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| JavaScript, TypeScript                                       | *see section* Programming / JavaScript and TypeScript *above.* |
+| JavaScript, TypeScript                                       | *see section* Programming / [JavaScript and TypeScript](#javascript-and-typescript) *above.* |
 | [Publish Something Online](https://publishsomething.online/) | By Jake Dow-Smith. A little library (22 items) on online publishing, broken down into sections and topics. It's small, but well curated and a good resource to explore. It also has a neat color-switching feature, and uses websafe type rather than an external or premium typeface. |
 | [Brad Traversy / Traversy Media](https://www.traversymedia.com/) | High-quality tutorials on web development and related technologies. |
 | [MDN Web Docs](https://developer.mozilla.org/en-US/)         | Web docs, references, and guides for (web) developers. Documentation for JavaScript, APIs, CSS, and more. By Mozilla, authors of Firefox. Their docs on [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) and [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), and their [general web guides](https://developer.mozilla.org/en-US/docs/Web/Guide). |
