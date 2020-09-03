@@ -1,4 +1,5 @@
 # Mostly Free Resources for Almost Everyone
+> **TIP**: Searching specific? Use `Ctrl+F` (or `Cmd+F` on macOS)!
 ## Table of Contents
 * [Computer Science and Related](#computer-science-and-related)
     * [Learn to Code](#learn-to-code)
