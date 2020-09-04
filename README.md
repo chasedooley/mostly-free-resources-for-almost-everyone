@@ -258,6 +258,7 @@
 | [F.lux](https://justgetflux.com/)                            | Day and night cycle software that adjusts your monitor's color temperature and brightness to improve the monitor's effects on your eyes. May improve sleep if you use your computer too close to bedtime. |
 | [VirtualBox](https://www.virtualbox.org/)                    | "a powerful x86 and AMD64/Intel64 [virtualization](https://www.virtualbox.org/wiki/Virtualization) product for enterprise as well as home use." |
 | [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html) | "a free implementation of SSH and Telnet for Windows and Unix platforms, along with an `xterm` terminal emulator. It is written and maintained primarily by [Simon Tatham](https://www.chiark.greenend.org.uk/~sgtatham/)." |
+| [WizTree](https://wiztreefree.com/)                          | The fastest free disk space analyzer for Windows.            |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To <em>Table of Contents</em></a></b>
@@ -636,6 +637,7 @@
 | [lichess](https://lichess.org/)          | Learn and play chess, watch others play, interact in a chess community, analyze games, and more. |
 | [Steam](https://store.steampowered.com/) | Platform for buying, playing, discussing, and creating video games. |
 | [Unity](https://unity.com/)              | Unity’s real-time 3D development platform lets artists, designers and developers work together to create amazing immersive and interactive experiences. (Available for Windows, Mac, and Linux.) |
+| [Godot](https://godotengine.org/)        | Free, open-source, and MIT Licensed game engine. "Godot provides a huge set of common tools, so you can just focus on making your game without reinventing the wheel." |
 
 ### Encyclopedias and Related
 
@@ -675,6 +677,7 @@
 | [OpenSCAD](https://www.openscad.org/)                        | Free 3D CAD modeling software, available for Linux, Windows, and macOS. |
 | [Darktable](https://www.darktable.org/)                      | "darktable is an open source photography workflow application and raw developer. A virtual lighttable and darkroom for photographers. It manages your digital negatives in a database, lets you view them through a zoomable lighttable and enables you to develop raw images and enhance them." Available for Linux, Windows, and Mac. (Free.) |
 | [IrfanView](https://www.irfanview.com/)                      | Fast and compact imagine viewer for Windows.                 |
+| [Synfig](https://www.synfig.org/)                            | Open-source 2D animation software, for Linux, Windows, and macOS. Features include vector tweening, layers and filters, bones, and advanced controls. |
 
 ### Documents
 
@@ -741,6 +744,8 @@
 | [TeamViewer](https://www.teamviewer.com/en/)                 | Remote access and visual support app. "Control, manage, monitor, and repair computers, mobile devices, network machines and more – from anywhere, anytime." |
 | [PhilosopherAI](https://philosopherai.com/)                  | An AI that'll generate text related to a prompt, such as a topic, sentence, or question. Uses the GPT-3 language model by OpenAI. |
 | [VNC Connect](https://www.realvnc.com/en/connect/)           | "Simple and secure remote access and support" software; a "screen sharing software that lets you connect to a remote computer anywhere in the world, watch its screen in real-time, and take control as though sitting in front of it." |
+| [TeuxDeux](https://teuxdeux.com/)                            | Browser (and iOS) based to-do app with a simple-as-a-piece-of-paper approach and a nice-to-look-at design. Free trial, with a $3/mo subscription afterward. |
+| [Tweek](https://tweek.so/)                                   | A very simple weekly calendar app, available for free. Can sync between Google Calendar; and Tweek is available across desktop and mobile platforms. Routines and task reminders are coming soon. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To <em>Table of Contents</em></a></b>
