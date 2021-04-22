@@ -583,6 +583,7 @@
 | [Early Modern Texts](https://www.earlymoderntexts.com/)      | Early modern philosophical texts made easier to read while maintaining the main arguments, doctrines, and lines of thought. Prepared by Jonathan Bennett, a professional scholar. Includes from Francis Bacon to Montaigne to Mary Wollstonecraft. |
 | [Calibre](https://calibre-ebook.com/)                        | Ebook manager available for Windows, Mac, and Linux. Read, create, and edit ebooks. |
 | [Goodreads](https://www.goodreads.com/)                      | Largest book recommendation site. Great for finding reviews of books. Catalog has over 2.6 billion books. Owned by Amazon. |
+| [Most Recommended Books](https://mostrecommendedbooks.com/)  | Which books have shaped the world's most successful people?
 | [Goodbooks](https://www.goodbooks.io/)                       | Book recommendations from successful people, like Bill Gates and Warrent Buffet. 8,500+ recommendations. |
 
 ### Articles
