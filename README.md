@@ -579,6 +579,7 @@
 | [MathDoctorBob](https://www.youtube.com/user/MathDoctorBob)  | Basic math, algebra, precalculus, linear algebra, calculus, abstract algebra, topology, differential equations, real analysis, logic, mathematical induction |
 | [Steven Brunton](https://www.youtube.com/c/Eigensteve)       | Data science, linear algebra, Fourier analysis, engineering mathematics, fluid dynamics, dynamical systems, scientific computing, singular value decomposition |
 | [Dr Peyam](https://www.youtube.com/watch?v=kPAczOBZxXI)      | Algebra, precalculus, calculus and beyond. Real analysis, PDEs. Math for fun. |
+| [The Math District](https://www.youtube.com/TheMathDistrict) | Pre-algebra, algebra, geometry, trigonometry, math study tips, and more. |
 
 ### Physics
 
