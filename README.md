@@ -530,6 +530,7 @@
 | [Quizlet](https://quizlet.com/)   | Flashcards and tools. Collections of flashcards exist for topics in humanities, languages, math, science, and more. |
 | [Notion](https://www.notion.so/)  | All-in-one workspace, with collaboration features and more. Create custom databases, journal systems, web pages, and more. Templates, blogs, wikis, and websites. Available in-browser, or on Mac and Windows. Free for personal use. |
 | [PTable](https://ptable.com/)     | An online periodic table with interactive and dynamic features. See element properties, electron distributions, isotopes, and compound information. |
+| [Taskade](https://www.taskade.com/)  | Real-time organization and collaboration tool for getting work done. Create collaborative task lists, mind maps, calendars, kanban boards, org charts, notes, and more. Available in-browser with native mobile and desktop apps. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To <em>Table of Contents</em></a></b>
