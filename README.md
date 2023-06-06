@@ -188,6 +188,8 @@
 | [AWS](https://aws.amazon.com/)                  | Amazon Web Services. "Whether you're looking for compute power, database storage, content delivery, or other functionality, AWS has the services to help you build sophisticated applications with increased flexibility, scalability, and reliability." |
 | [Express JS](https://expressjs.com/)            | Fast, unopinionated, minimalist web framework for NodeJS, providing a robust set of features for web and mobile applications. |
 | [Vultr](https://www.vultr.com/)                 | Cloud infrastructure products.                               |
+| [HarperDB](https://www.harperdb.io/)            | Database and application development platform that is focused on performance and ease of use. Including flexible user-defined APIs, simple HTTP/S interface, and a high-performance single-model data store that accommodates both NoSQL and SQL workloads. |
+
 
 #### Hosting, Deployment, and Content Management
 
