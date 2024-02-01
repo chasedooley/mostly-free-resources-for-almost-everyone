@@ -975,6 +975,7 @@
 | ----------------------------------------------------------- | ------------------------------------------------------------ |
 | [80,000 Hours](https://80000hours.org/)                     | "You have 80,000 hours in your career. How can you best use them to help solve the world’s most pressing problems? We’re a nonprofit that does research to answer this question. We provide free advice and support to help you have a greater impact with your career." They have extensive guides and resources on developing careers that make the most impact given your unique characteristics, interests, abilities, etc.  [Their career guide may be very valuable.](https://80000hours.org/career-guide/) |
 | [Himalayas](https://himalayas.app/jobs)                     | Board for finding remote jobs. in development, sales, product management, HR, and design. |
+| [OkJob](https://okjob.io)                     | 4 day week job board|
 | [Remotive](https://remotive.io/)                            | Board for finding remote jobs at remote tech and tech-related companies. |
 | [CareerExplorer](https://www.careerexplorer.com/) by Sokanu | "The world's most powerful career test," using machine learning, psychometrics, and career satisfaction data to provide the best career recommendations. Sign up required. Free tier, with a premium upgrade to access your complete results. Upgrade membership starts at $4 per month. They also provide information about careers and other career rescourses. |
 
