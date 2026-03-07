@@ -346,6 +346,7 @@
 | [VirtualBox](https://www.virtualbox.org/)                    | "a powerful x86 and AMD64/Intel64 [virtualization](https://www.virtualbox.org/wiki/Virtualization) product for enterprise as well as home use." |
 | [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html) | "a free implementation of SSH and Telnet for Windows and Unix platforms, along with an `xterm` terminal emulator. It is written and maintained primarily by [Simon Tatham](https://www.chiark.greenend.org.uk/~sgtatham/)." |
 | [WizTree](https://wiztreefree.com/)                          | The fastest free disk space analyzer for Windows.            |
+| [FreeUpDisk](https://freeupdisk.com/)                        | Free visual disk space analyzer for Windows and Mac. Treemap visualization, scans in under 30 seconds. |
 | [SeaMonkey](https://www.seamonkey-project.org/)              | "Web-browser, advanced e-mail, newsgroup and feed client, IRC chat, and      HTML editing made simple—all your Internet needs in one application." |
 
 <div align="right">
