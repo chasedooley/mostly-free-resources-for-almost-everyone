@@ -828,6 +828,7 @@
 | [Kinguin](https://www.kinguin.net/)                          | "Kinguin.net is a platform that provides sellers and buyers from all  around the world with the possibility to trade digital game keys and  in-game items at a fair price with no hassle through an innovative  platform." |
 | [BlueMaxima's Flashpoint](https://bluemaxima.org/flashpoint/) | "BlueMaxima's Flashpoint is a webgame preservation project. Internet history and culture is important, and content made on web  platforms including, but not limited to Adobe Flash, make up a  significant portion of that culture. This project is dedicated to  preserving as many experiences from these platforms as possible, so that they aren't lost to time. Since early 2018, Flashpoint has saved more  than 90,000 games and 10,000 animations running on 33 different  platforms." |
 | [AI Dungeon](https://play.aidungeon.io)                      | "Play and create adventures with infinite possibilities, brought to life with one of the most advanced AIs in the world..." |
+| [Auferet](https://auferet.com) | AI game master for solo text adventures and tabletop RPGs, with persistent memory and your own uploaded lore. |
 
 ### Encyclopedias and Related
 
