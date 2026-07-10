@@ -444,6 +444,7 @@
 | [R](https://www.r-project.org/)                              | Free software environment for statistical computing and graphics. |
 | [OmniCalculator](https://www.omnicalculator.com/)            | A huge collection of calculators for problems in chemistry, conversion, food, everyday-life, math, and more. 1289 free calculators in total. |
 | [QuickMath](https://quickmath.com/)                          | Quick and simple equation, inequality, or system solver, providing step-by-step solutions. |
+| [Concrete Calculator Hub](https://concreteestimatorhub.com/) | Free concrete calculators for slabs, footings, columns, and bags with cost estimates.     |
 
 ### Resources
 
