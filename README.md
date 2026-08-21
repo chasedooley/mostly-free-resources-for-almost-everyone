@@ -170,6 +170,7 @@
 | [Bulma CSS](https://bulma.io/)                               | "Bulma is a free, open source CSS framework based on Flexbox and used by more than 200,000 developers." |
 | [MVP.css](https://andybrewer.github.io/mvp/)                 | "A minimalist stylesheet for HTML elements. No class names, no frameworks, just semantic HTML and you're done." |
 | [NES.css](https://nostalgic-css.github.io/NES.css/#)         | "NES.css is NES-style (8bit-like) CSS Framework."            |
+| [Codex Theme Builder](https://codextheme.tools)              | Free browser CSS theme builder for OpenAI Codex CLI. No signup. |
 | [Flexbox Bar Graphs](https://flexbox-bar-graphs.netlify.app/) | "Pure CSS bar graphs with a graceful mobile fallback. Open source and 100% customizable. Focused on minimalism." [Demos, noting that on mobile, it fallbacks to tables.](https://flexbox-bar-graphs.netlify.app/#demos) |
 | [Vanilla CSS](https://vanillacss.com/)                       | "Vanilla CSS is a **minimal baseline stylesheet** for any web project. It includes a basic reset and default styling for all HTML5 elements (which you can see live below)." |
 | [Vanilla Framework](https://vanillaframework.io/)            | CSS framework developed by the Canonical Web Team. Lightweight, composable, and open-source. |
@@ -444,6 +445,9 @@
 | [R](https://www.r-project.org/)                              | Free software environment for statistical computing and graphics. |
 | [OmniCalculator](https://www.omnicalculator.com/)            | A huge collection of calculators for problems in chemistry, conversion, food, everyday-life, math, and more. 1289 free calculators in total. |
 | [QuickMath](https://quickmath.com/)                          | Quick and simple equation, inequality, or system solver, providing step-by-step solutions. |
+| [WattsCalc](https://wattscalc.com)                           | Free wattage and electricity cost calculator for appliances and devices. No signup. |
+| [Lawn Mowing Cost Calculator](https://lawnmowingcalculator.com) | Free calculator for lawn mowing cost estimates by area, rate, and extras. |
+| [Embroidery Pricing Calculator](https://embroiderypricingcalculator.com) | Free stitch-count and embroidery pricing calculator for makers. |
 
 ### Resources
 
@@ -828,6 +832,7 @@
 | [Kinguin](https://www.kinguin.net/)                          | "Kinguin.net is a platform that provides sellers and buyers from all  around the world with the possibility to trade digital game keys and  in-game items at a fair price with no hassle through an innovative  platform." |
 | [BlueMaxima's Flashpoint](https://bluemaxima.org/flashpoint/) | "BlueMaxima's Flashpoint is a webgame preservation project. Internet history and culture is important, and content made on web  platforms including, but not limited to Adobe Flash, make up a  significant portion of that culture. This project is dedicated to  preserving as many experiences from these platforms as possible, so that they aren't lost to time. Since early 2018, Flashpoint has saved more  than 90,000 games and 10,000 animations running on 33 different  platforms." |
 | [AI Dungeon](https://play.aidungeon.io)                      | "Play and create adventures with infinite possibilities, brought to life with one of the most advanced AIs in the world..." |
+| [SkyCOTL Tools](https://skycotl.tools)                       | Free companion tools for Sky: Children of the Light (candles, seasons, quests). |
 
 ### Encyclopedias and Related
 
@@ -858,6 +863,7 @@
 | Website                                                      | Description                                                  |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [Unsplash](https://unsplash.com/)                            | Free images. "Over 1 million free high-resolution images brought to you by the word's most generous community of photographers." |
+| [Image to Crochet Pattern](https://imagetocrochetpattern.com) | Free browser tool that converts a photo into a crochet pattern. No signup. |
 | [Pexels](https://www.pexels.com/)                            | Free stock photos and videos, by talented creators.          |
 | [Pixabay](https://pixabay.com/)                              | Over 1.8 million free stock image and video, for free.       |
 | [Krita](https://krita.org/en/)                               | Professional and open source painting program; made by artists who want affordable tools over everyone. Available for Windows, Linux, and Mac. |
@@ -1037,6 +1043,7 @@
 | [Virus Total](https://www.virustotal.com/gui/)               | "Analyze suspicious files and URLs to detect types of maleware, and automatically share them with the security community." |
 | [morsecode.me](http://morsecode.me/)                         | Send morse code messages to others.                          |
 | [windy.com](https://www.windy.com/)                          | Advanced wind and weather radar app. See realtime wind speeds, precipitation, temperature, and more across the world. |
+| [Pressure Washer Fix](https://pressurewasherfix.com)         | Free pressure-washer troubleshooting guides and parts lookup. No signup. |
 | [10 Minute Mail](https://10minutemail.com/)                  | Get a disposable, temporary email.                           |
 | [LEGO Studio](https://www.bricklink.com/v2/build/studio.page) | "Build, render, and create instructions" of your LEGO projects and MOCs. Integrated with BrickLink. Available for Mac and Windows. |
 | [Snipping Tool](https://support.microsoft.com/en-us/help/4027213/windows-10-open-snipping-tool-and-take-a-screenshot) | Windows 10's built-in Snipping Tool provides useful features for screenshots. |
