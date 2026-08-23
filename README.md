@@ -1052,6 +1052,7 @@
 | [Natural Readers](https://www.naturalreaders.com/online/)    | "Natural Reader is a professional text to speech program that converts  any written text into spoken words. The paid versions of Natural Reader have many more features." |
 | [Null School's Earth](https://earth.nullschool.net)          | A 3D visualization of real-time weather phenomenon on Earth. Also includes ocean currents, temperatures, and waves, and auroras. |
 | [Tip of my Tongue](https://chir.ag/projects/tip-of-my-tongue/) | "Find that word that you've been thinking about all day but just can't seem to remember." |
+| [WorkroomCalc](https://workroomcalc.co.uk/) | Free in-browser Roman blind calculator for finished size, fabric and lining cuts, rods, rings, and cord. No signup. |
 | [Email Octopus](https://emailoctopus.com)                    | Email marketing tools. Free tier includes up to 2,500 subscribers and 10,000 emails per month; paid subscription begins at $20 per month. |
 | [Down For Everyone or Just Me?](https://downforeveryoneorjustme.com/) | Minimal website status checker.                              |
 | [Wiby](https://wiby.me)                                      | "The Wiby search engine is building a web of pages as it was in the  earlier days of the internet. In addition, Wiby helps vintage computers  to continue browsing the web, as pages indexed are more suitable for  their performance." |
