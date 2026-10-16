@@ -117,6 +117,7 @@
 
 | Website                                     | Description                                                  |
 | ------------------------------------------- | ------------------------------------------------------------ |
+| [FastTools](https://fasttools.me/) | Free, client-side developer utilities including visual crontab generator, JSON to TypeScript/Zod schema converter, and fee calculators with zero tracking. |
 | [Git](https://git-scm.com/)                 | "Git is a [free and open source](https://git-scm.com/about/free-and-open-source) distributed version control system designed to handle everything from small to very large projects with speed and efficiency." |
 | [VSCode](https://code.visualstudio.com/)    | Free, streamlined code editor with development tools like extensions, run and debug, and Git integration. Built and maintained by Microsoft. Similarly, [VSCodium](https://vscodium.com/) is the completely open-source, telemetry-disabled distribution of VSCode. |
 | [Notepad++](https://notepad-plus-plus.org/) | A free source code editor and Notepad replacement that supports several languages. Runs on Windows. |
