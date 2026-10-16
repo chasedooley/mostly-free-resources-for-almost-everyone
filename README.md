@@ -1038,6 +1038,7 @@
 | [morsecode.me](http://morsecode.me/)                         | Send morse code messages to others.                          |
 | [windy.com](https://www.windy.com/)                          | Advanced wind and weather radar app. See realtime wind speeds, precipitation, temperature, and more across the world. |
 | [10 Minute Mail](https://10minutemail.com/)                  | Get a disposable, temporary email.                           |
+| [TempMail10min](https://temp-mail10min.online/)             | Free disposable temporary email with 5, 10, 15, and 30-minute auto-destruct inboxes for fast verification. |
 | [LEGO Studio](https://www.bricklink.com/v2/build/studio.page) | "Build, render, and create instructions" of your LEGO projects and MOCs. Integrated with BrickLink. Available for Mac and Windows. |
 | [Snipping Tool](https://support.microsoft.com/en-us/help/4027213/windows-10-open-snipping-tool-and-take-a-screenshot) | Windows 10's built-in Snipping Tool provides useful features for screenshots. |
 | [Greenshot](https://getgreenshot.org/)                       | "A light-weight screenshot software tool for Windows," with various screenshot, annotations, and export features. |
