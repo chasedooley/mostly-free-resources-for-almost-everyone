@@ -801,6 +801,7 @@
 | [Musopen](https://musopen.org/)                              | "Founded in  2012, Musopen is a 501(c) 3 non-profit based out of San  Francisco, CA. We work to increase access to music education by  providing  free music recordings, sheet music, apps, and educational  materials." |
 | [Libro.fm](https://libro.fm/)                                | Buy audiobooks from your local bookstores. $15 per month subscription, for one audiobook credit. Essential Audible but without Amazon. |
 | [808303 Studio](https://808303.studio/)                      | "808303.studio is a new online music creation platform created by Yuri Suzuki, the Design Museum and Roland, which features Roland’s innovative Step Sequencer technique, as well as emulating the sound of the original TR-808 drum machine and TB-303 bass synthesizer. It is a professional sounding online musical interface, which records your masterpieces and allows you to share your creations through social media, messaging and also as a download." |
+| [The Audio Stuff](https://theaudiostuff.com/)                | Independent headphone and hi-fi reviews plus free in-browser audio tools: tone generator, speaker and headphone test, ABX blind test, and headphone power and room mode calculators. No account needed. |
 
 ### Video
 
